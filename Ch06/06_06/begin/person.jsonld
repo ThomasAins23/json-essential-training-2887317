@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Ronald Billingsworth",
+    "jobTitle": "Hard Knock",
+    "telephone": "(666) 867-5309",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Los Angeles",
+        "addressRegion": "CA",
+        "postalCode": "90210",
+        "streetAddress": "5801 Wilshire Blvd"
+    }
+}
